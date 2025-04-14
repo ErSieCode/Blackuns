@@ -1,0 +1,17 @@
+<resources>
+    <!-- ★★★ DEIN APP NAME ★★★ -->
+    <string name="app_name">Blackscreen Overlay</string>
+
+    <!-- Notification related -->
+    <string name="notification_channel_name">Blackscreen Overlay Controls</string>
+    <string name="notification_channel_description">Steuerung für die Blackscreen Overlay App</string>
+    <string name="notification_title">Blackscreen Overlay</string>
+    <string name="notification_text">Overlay Steuerung aktiv</string>
+    <string name="action_show_overlay">Overlay An</string>
+    <string name="action_stop_service">Stopp</string>
+
+    <!-- Permission related toasts -->
+    <string name="permission_denied_toast">Berechtigung \'Über anderen Apps anzeigen\' nicht erteilt. App kann nicht funktionieren.</string>
+    <string name="permission_overlay_request_toast">Bitte erteile die Berechtigung \'Über anderen Apps anzeigen\', um das Overlay nutzen zu können.</string>
+    <string name="permission_notification_denied_toast">Benachrichtigungs-Berechtigung verweigert. Steuerung ist nicht sichtbar.</string>
+</resources>
